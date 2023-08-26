@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0",
+    "title": "Base 1",
+    "creator": "",
+    "rockets": 4,
+    "exploits": false
+  },
+  {
+    "id": "1",
+    "title": "Base 2",
+    "creator": "",
+    "rockets": 4,
+    "exploits": false
+  },
+  {
+    "id": "2",
+    "title": "Base 3",
+    "creator": "",
+    "rockets": 4,
+    "exploits": false
+  },
+  {
+    "id": "3",
+    "title": "Base 4",
+    "creator": "",
+    "rockets": 4,
+    "exploits": false
+  },
+  {
+    "id": "4",
+    "title": "Base 4",
+    "creator": "",
+    "rockets": 4,
+    "exploits": false
+  }
+]
