@@ -6,6 +6,9 @@ interface Props {
   exploits: boolean;
 }
 
+/**
+ * @returns A base with its details and images displayed in a bootstrap card format
+ */
 function BaseCard({ id, title, creator, rockets, exploits }: Props) {
   return (
     <>
